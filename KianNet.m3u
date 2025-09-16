@@ -680,6 +680,12 @@ http://103.244.145.15/live/anita123/anita123/151040.m3u8?token=ShJcU0BbQQNHWwZaV
 #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
 https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PH CableTV BackUp",True Vision SPOTV
+https://e108.google-streams.com:9308/v5/VNzV4K2jwIYpP2X79cmH4w/1753442801/ad462f66329fd4360151392f7850b0cc/Wkgph9_bU76vzvWrv0U_DA/1753453481/live/vx-origin/th-spotv1_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PH CableTV BackUp",True Vision SPOTV2
+https://e108.google-streams.com:9308/v5/VNzV4K2jwIYpP2X79cmH4w/1753442801/ad462f66329fd4360151392f7850b0cc/Wkgph9_bU76vzvWrv0U_DA/1753453481/live/vx-origin/th-spotv2_720/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH CableTV BackUp",VIVACINEMA
 http://103.244.145.15/live/anita123/anita123/151090.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
 
